@@ -22,7 +22,7 @@ For a better experience, while using our service, Cikoria may require you to pro
 
 The apps do use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Link to the privacy policy of third-party service providers used by the app:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
@@ -97,6 +97,6 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 
 These terms and conditions are effective as of 2022-03-05
 
-## Contact Us
+## Contact
 
 If you have any questions or suggestions regarding the Privacy Policy or Terms and Conditions, do not hesitate to contact at studiocikoria@gmail.com.

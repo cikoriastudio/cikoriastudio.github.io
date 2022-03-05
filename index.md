@@ -16,7 +16,7 @@ If you choose to use the services, then you agree to the collection and use of i
 
 The terms used in this privacy policy have the same meanings as in the Terms and Conditions, which are accessible on this page unless otherwise defined in this Privacy Policy.
 
-## Information Collection and Use
+### Information Collection and Use
 
 For a better experience, while using our service, Cikoria may require you to provide us with certain personally identifiable information. The information that is requested will be retained on your device and is not collected by Cikoria in any way.
 
@@ -27,17 +27,17 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
-## Log Data
+### Log Data
 
 Whenever you are using any of Cikoria's services, in a case of an error in the app, Cikoria collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-## Cookies
+### Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 These services does not use these “cookies” explicitly. However, the apps may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of the services.
 
-## Service Providers
+### Service Providers
 
 Cikoria may employ third-party companies and individuals due to the following reasons:
 
@@ -48,27 +48,23 @@ Cikoria may employ third-party companies and individuals due to the following re
 
 Cikoria wants to inform users of these services that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-## Security
+### Security
 
 Cikoria values your trust in providing your personal information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is completely secure and reliable, and absolute security cannot be guaranteed.
 
-## Links to Other Sites
+### Links to Other Sites
 
 These services may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by Cikoria. Therefore, it is strongly encouraged to review the Privacy Policy of these websites. Cikoria has no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-## Children’s Privacy
+### Children’s Privacy
 
 These services do not address anyone under the age of 13. Cikoria does not knowingly collect personally identifiable information from children under 13 years of age. In the case Cikoria discovers that a child under 13 has provided with personal information, this will immediately be deleted from the servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
 
-## Changes to This Privacy Policy
+### Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2022-03-05
-
-## Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact at studiocikoria@gmail.com.
 
 ## Terms & Conditions
 
@@ -95,7 +91,7 @@ With respect to Cikoria Studio’s responsibility for your use of the app, when 
 
 At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Cikoria Studio does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-## Changes to This Terms and Conditions
+### Changes to This Terms and Conditions
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 

@@ -5,3 +5,7 @@ layout: default
 ---
 
 Hello world
+
+# Privacy policy
+
+Hello world

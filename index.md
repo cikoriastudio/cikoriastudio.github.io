@@ -103,4 +103,4 @@ These terms and conditions are effective as of 2022-03-05
 
 ## Contact Us
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact at studiocikoria@gmail.com.
+If you have any questions or suggestions regarding the Privacy Policy or Terms and Conditions, do not hesitate to contact at studiocikoria@gmail.com.
